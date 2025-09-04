@@ -1,3 +1,13 @@
+const readline = require ("readline");
+
+const rl = readline.create interface ({
+    input:process.stdin,
+    output:process.stdout,
+
+})
+
+
+
 console.log("Factorial Application");
 
 console.log("1. hello");
