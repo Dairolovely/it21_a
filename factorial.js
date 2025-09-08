@@ -68,8 +68,9 @@ function backToMenu(){
             console.log("exixsting progtam...Goodbye");
             rl.close();
         }else{
-            console.log("invalid choice. Please try again");
+            console.log("Invalid choice,please try again");
             backToMenu();
+
 
         }    
             
