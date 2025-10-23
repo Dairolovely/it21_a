@@ -13,6 +13,14 @@
         "data":[80, 90, 70, 85, 75, 70],
         "backgroundColor":"rgba(80,165,192,0.23)",
         "boarderColor":"rgba(80,195,195,1)"
+},
+{
+
+         "labels":"Person A",
+        "data":[80, 90, 70, 85, 75, 70],
+        "backgroundColor":"rgba(80,165,192,0.23)",
+        "boarderColor":"rgba(80,195,195,1)"
+
 
     }]
 }
